@@ -7,7 +7,7 @@ import org.hibernate.cfg.Configuration;
 public class FetchDemo {
 
 	public static void main(String[] args) {
-		// get and load methods
+		// get() and load() methods
 		System.out.println("Project Started");
 
 		SessionFactory factory = new Configuration().configure("hibernate.cfg.xml").buildSessionFactory();

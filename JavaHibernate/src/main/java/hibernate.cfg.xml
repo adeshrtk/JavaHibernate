@@ -18,5 +18,7 @@
     <mapping class="com.javatut.connection.Address"/>
     <mapping class="com.javatut.map.Question"/>
     <mapping class="com.javatut.map.Answer"/>
+    <mapping class="com.javatut.map.Emp"/>
+    <mapping class="com.javatut.map.Project"/>
   </session-factory>
 </hibernate-configuration>
